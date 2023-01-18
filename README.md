@@ -1,12 +1,4 @@
-
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 0 0" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
-<style type="text/css">
-	.st0{font-family:'Montserrat', "Arial";}
-	.st1{font-size:70px;}
-</style>
-<text class="st0 st1">Hey! I’m Ranto </text>
-</svg>
+<p style="font-size:70px; font-family:'Montserrat', 'Arial';"> Hey! I'm Ranto</p> 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ranto-rakotondrajoa-9a0b74204/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
