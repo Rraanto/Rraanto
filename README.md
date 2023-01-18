@@ -1,4 +1,5 @@
-<p style="font-size:70px; font-family:'Montserrat', 'Arial';"> Hey! I'm Ranto</p> 
+<h1 style="font:'Montserrat', 'Arial';"> Hey! I'm Ranto </h1> 
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/ranto-rakotondrajoa-9a0b74204/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -39,6 +40,7 @@ I'm an international undergraduate student in applied maths and computer science
 </div>
 
 ### :hammer_and_wrench: Tools & other technologies
+<div> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" width="40" height="40"/>
