@@ -16,7 +16,7 @@
 ```C
 {
     char *lastName = "Rakotondrajoa" ;
-    int age = 19                     ; // have to update next year 
+    int age = 20                     ; // have to update next year 
 }
 ```
 
